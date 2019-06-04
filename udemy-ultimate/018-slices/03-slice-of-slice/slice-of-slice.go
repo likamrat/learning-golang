@@ -9,7 +9,7 @@ func main() {
 	fmt.Println(x)
 	fmt.Println(len(x))
 	fmt.Println(x[4])
-	fmt.Println(x[1:4]) // In this case, the slice of a slice will not incl. the number in index position 4.
+	fmt.Println(x[1:4]) // In this case, the slice of a slice will not incl. the number in index position 4. "Accessing array by index postion"
 
 	for i, v := range x {
 		fmt.Println(i, v)
