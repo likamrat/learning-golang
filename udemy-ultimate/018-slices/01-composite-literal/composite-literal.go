@@ -10,4 +10,4 @@ func main() {
 	fmt.Println(x)
 }
 
-// a SLICE allows you to group toghather VALUES out of the SAME TYPE
+// a SLICE allows you to group together VALUES out of the SAME TYPE
