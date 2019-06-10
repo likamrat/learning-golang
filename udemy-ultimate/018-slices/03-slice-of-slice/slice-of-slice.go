@@ -18,7 +18,7 @@ func main() {
 	// ALTERNATIVE WAY:
 
 	for i := 0; i < len(x); i++ {
-		fmt.Println(i, x[i]) // give  me the index and then give me the VALUE from that index postion in the SLICE
+		fmt.Println(i, x[i]) // give me the index and then give me the VALUE from that index postion in the SLICE
 	}
 
 }
